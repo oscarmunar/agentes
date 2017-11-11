@@ -1,3 +1,4 @@
+;Oscar Munar
 breed [tortuga tortugas] ;; definimos el primer tipo de agente
 breed [espacial espacials] ;; definimos el segundo tipo de agente
 
